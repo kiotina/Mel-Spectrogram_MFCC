@@ -338,9 +338,3 @@ Get-ChildItem data\raw\fake -Recurse -File -Filter *.wav | Select-Object -First 
 - `__pycache__/`, `*.pyc`: Python 캐시
 
 다른 컴퓨터에서 실습하려면 저장소를 clone한 뒤 이 문서의 순서대로 가상환경을 만들고, AIHub 데이터를 다시 내려받아 배치하고, 모델을 새로 학습해야 합니다.
-
-## 13. PBL 기록
-
-- [PBL1 최수민 페이지](https://app.notion.com/p/35ba151c570380d1a94dfed991c64f1c) — Notion 접근 권한 필요
-- [논문 실습(1)](https://app.notion.com/p/35fa151c5703804d8e54d9db0b2764b8) — 환경 구축, 데이터셋, 실습 과정과 결과
-- [시스템 구조 분석 및 이해](https://app.notion.com/p/373a151c570380ca994bebe7b8e6dd06) — 코드 흐름과 주요 파라미터 설명
